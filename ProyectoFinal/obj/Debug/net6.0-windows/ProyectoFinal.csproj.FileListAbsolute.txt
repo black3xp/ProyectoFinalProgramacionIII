@@ -1,0 +1,148 @@
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmLogin.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMain.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmUsuarios.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CopyComplete
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMesas.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMenuProductos.resources
+C:\Users\vnc3x\Documents\black3xp\C#\UAPA\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmPedidos.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmClientes.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmLogin.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmPedidos.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMain.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMenuProductos.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMesas.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmUsuarios.resources
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CopyComplete
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\vnc3x\OneDrive\UAPA\Quinto Trimestre\Programacion III\ProyectoFinal\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmNuevoPedido.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmClientes.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmLogin.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmNuevoPedido.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmPedidos.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMain.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMenuProductos.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmMesas.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.Properties.Resources.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.frmUsuarios.resources
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.AssemblyInfo.cs
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.csproj.CopyComplete
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ProyectoFinal.genruntimeconfig.cache
+C:\Users\vnc3x\Documents\black3xp\ProyectoFinalC#\App\ProyectoFinal\ProyectoFinal\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
